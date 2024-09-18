@@ -13,7 +13,16 @@ Throughout the completion of this project, I gained valuable insights and skills
 * Forecasting and Predictive Analysis: I learned how to use Tableau’s forecasting tools to predict future trends, particularly employee turnover. This demonstrated the power of data-driven prediction in supporting strategic decisions.
 * Tableau Proficiency: I significantly improved my ability to create interactive and insightful dashboards in Tableau, focusing on human resource analytics. This included working with various chart types, calculated fields, and filters to present complex data in an understandable format.
 
+## [View Dashboard on new tab](https://public.tableau.com/app/profile/chris.co2839/viz/HRDashboard_17266680385500/HRDetails?publish=yes)
+
+## Mock Up Preview
+![](https://github.com/bunnyfufuyzay/HR-Tableau-Project/blob/main/6.png)
+
+## Dashboard Preview
+![](https://github.com/bunnyfufuyzay/HR-Tableau-Project/blob/main/4.png)
+
+## Dashboard Details Preview
+![](https://github.com/bunnyfufuyzay/HR-Tableau-Project/blob/main/5.png)
+
 ## Credits:
 This project was created by following the Tableau HR Project tutorial by [Baraa Khatib Salkini] on the [Data with Baraa YouTube channel](https://www.youtube.com/@DatawithBaraa). Big thanks for the guidance!
-
-# [View Dashboard on new tab](https://public.tableau.com/app/profile/chris.co2839/viz/HRDashboard_17266680385500/HRDetails?publish=yes)
