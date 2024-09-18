@@ -2,7 +2,7 @@
 
 This project showcases an end-to-end analysis of HR data using Tableau. The goal is to provide insightful visualizations and dashboards for human resources metrics, including employee performance, attrition rates, hiring trends, and workforce demographics. This HR Dashboard uses a dataset generated using **ChatGPT** & **Faker** library.
 
-## Key Features:
+## Key Features
 * Data Visualization: Leveraging Tableau to create interactive dashboards that highlight key HR insights, such as employee turnover, satisfaction levels, and recruitment efficiency.
 * Key Metrics: performance distribution, salary comparison, and employee satisfaction by department.
 * Dashboard Presentation: Designed for ease of use by HR professionals, allowing for quick decision-making based on visual data.
@@ -24,5 +24,5 @@ Throughout the completion of this project, I gained valuable insights and skills
 ## Dashboard Details Preview
 ![](https://github.com/bunnyfufuyzay/HR-Tableau-Project/blob/main/5.png)
 
-## Credits:
+## Credits
 This project was created by following the Tableau HR Project tutorial by [Baraa Khatib Salkini] on the [Data with Baraa YouTube channel](https://www.youtube.com/@DatawithBaraa). Big thanks for the guidance!
